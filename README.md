@@ -12,12 +12,11 @@ The purpose of this game is for the main character go through a maze and parkour
 
 Base character is the character created for the players to control. 
 It give the player a first person perspective to give the player ability to look around, move, and jump around the map. 
-I also added the player the ability to run the code when the character enter a certain location.
+The player has the ability to run a code when the character enter a certain location.
 
 ### BasePawn :
 
-Base Pawn is referenced from Week 1 and Week 2 tutorial from CloudDeakin. 
-This class is used to create all the mesh in the map such as walls, obstacles, and floors. It borrowed all its component from StaticMeshComponent.
+Base Pawn is used to create all the mesh in the map such as walls, obstacles, and floors. It borrowed all its component from StaticMeshComponent.
 
 ### Countdown :
 
